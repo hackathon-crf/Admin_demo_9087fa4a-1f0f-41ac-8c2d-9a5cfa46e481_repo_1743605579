@@ -1,0 +1,6 @@
+ForgeAI Services Restart Script
+================================
+Restarting services for application: demo
+Frontend port: 7062
+Backend port: 7063
+Stopping existing processes...
