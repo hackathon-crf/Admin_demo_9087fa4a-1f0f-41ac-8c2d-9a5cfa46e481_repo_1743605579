@@ -1,0 +1,19 @@
+ForgeAI Services Restart Script
+================================
+Restarting services for application: demo
+Frontend port: 7062
+Backend port: 7063
+Stopping existing processes...
+No process found on frontend port 7062
+No process found on backend port 7063
+Starting backend...
+Installing requirements...
+Using backend file: main_back.py
+Setting root_path to: /admin/demo
+Backend started with PID: 46068
+Starting frontend...
+Using frontend file: main_front.py
+Using path-based URL: admin/demo
+Frontend started with PID: 46069
+Services restarted successfully!
+================================
